@@ -43,3 +43,34 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.experiences-area{
+    width: 100%;
+    margin-bottom: 100px;
+    background: url('images/exp-bg.png');
+    background-repeat: no-repeat;
+    background-color: left;
+    margin-top: 50px;
+}
+
+.full-stack-dev{
+    width: 45%;
+    box-shadow: 10px 10px 10px gray;
+    margin: 0 20px;
+    border-left: 8px solid orange;
+    border-radius: 10px;
+}
+.baby-web-dev{
+    width: 45%;
+    margin: 0 20px;
+    box-shadow: 10px 10px 10px gray;
+    border-left: 8px solid tomato;
+    border-radius: 10px;
+
+}
+.experiences-area h4{
+    color: orange;
+}
+footer p{
+    text-align: center;
+}
